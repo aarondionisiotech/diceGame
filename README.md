@@ -27,3 +27,7 @@ Piccola applicazione web per lanciare da 1 a 9 dadi e visualizzare sia i valori 
 
 ## Note
 Il progetto usa JavaScript per generare numeri casuali da 1 a 6 e mostrare il risultato nella pagina.
+
+## Demo
+
+![Screenshot della Dice Roller](./demo/screenshot.png)
