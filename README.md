@@ -30,4 +30,4 @@ Il progetto usa JavaScript per generare numeri casuali da 1 a 6 e mostrare il ri
 
 ## Demo
 
-![Screenshot della Dice Roller](./demo/screenshot.png)
+![Screenshot della Dice Roller](demo/screenshot.png)
